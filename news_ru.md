@@ -1,15 +1,9 @@
 <!-- Header -->
-RU news placeholder
-<div align="center">
-    <img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/news_eng.png" alt="Logo" width="400">
+![Logo](https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/news_ru.png)
 
-  <p align="center">
-    Проект пользовательского ремастера / патча для игры Ex Machina.
-    <br />
-    <a href="https://discord.gg/jZHxYdF"><img src="https://user-images.githubusercontent.com/79088546/174305727-755adfa0-57c2-41b0-9717-8476fcbc4567.png" alt="Discord link"><strong>  Следить за разработкой в Discord »</strong></a>
-    <br />
-  </p>
-</div>
+Проект пользовательского ремастера / патча для игры Ex Machina.
+
+![Discord logo](https://user-images.githubusercontent.com/79088546/174305727-755adfa0-57c2-41b0-9717-8476fcbc4567.png) [**Следить за разработкой в Discord »**](https://discord.gg/deus-ex-machina-522817939616038912)
 
 Скачать моды из новостей можно на [Discord сервере DEM](https://discord.gg/deus-ex-machina-522817939616038912) в разделе **#витрина-модов**
 
