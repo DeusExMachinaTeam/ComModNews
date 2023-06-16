@@ -1,7 +1,5 @@
 <!-- Header -->
 
-![NewsLogo](https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/news_ru.png)
-<img src="https://user-images.githubusercontent.com/79088546/174285554-cf467b80-7264-475f-94ec-bacc204b04c9.png" alt="Logo" width="400">
 <img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/news_ru.png" alt="Logo" width="400">
 
 Проект пользовательского ремастера / патча для игры Ex Machina.

@@ -1,6 +1,6 @@
 <!-- Header -->
 
-![NewsLogo](https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/news_eng.png)
+<img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/news_eng.png" alt="Logo" width="400">
 
 Community patch and remaster project for Hard Truck Apocalypse.
 
