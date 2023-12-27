@@ -1,6 +1,6 @@
 <!-- Header -->
 
-<img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/news_ru.png" alt="Logo" width="400">
+<img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/news_ru.png" alt="Logo" width="800">
 
 Проект пользовательского ремастера / патча для игры Ex Machina.
 
@@ -8,6 +8,18 @@
 
 Скачать моды из новостей можно на [Discord сервере DEM](https://discord.gg/deus-ex-machina-522817939616038912) в разделе **#витрина-модов**
 
+
+---
+### 🔧 Вышел мод stranded - новый выживач в Ex Machina [2023.12.27]
+<img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/stranded.png" alt="Logo" width="800">
+
+🔸**stranded** - концептуальная модификация для Ex Machina Community Remaster, которая расположилась на стыке жанров. В stranded присутствуют элементы выживания, головоломки и визуальной новеллы без... новеллы? Герою модификации предстоит решить загадки острова Сакадин, чтобы вернуть себе память и найти выход. 
+
+<img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/stranded_screen.webp" alt="Screen" width="800">
+
+Мод можно найти [в нашем Discord](https://discord.gg/deus-ex-machina-522817939616038912) или [GitHub мода](https://github.com/Gnome627/stranded).
+
+Автор: **Gnome627**
 
 ---
 ### 🍂 Мод-дайджест - Август-Декабрь 2023 [2023.12.11]
