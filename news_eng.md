@@ -19,7 +19,9 @@ Take note: **this mod requires the latest ComMod 2.1 and ComRem 1.14.1**, links 
 
 <img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/armada_screen.webp" alt="Screen" width="800">
 
-:cruise_ship: **You can download Armada** [on Github](https://github.com/lyokhatankist/ExM-Armada/releases) and [on ModDB](https://www.moddb.com/mods/hta-armada/downloads/armada).
+🛳️ **You can download Armada** [on Github](https://github.com/lyokhatankist/ExM-Armada/releases) and [on ModDB](https://www.moddb.com/mods/hta-armada/downloads/armada).
+
+Authors: **DOLBOYASCHERS TEAM**
 
 ---
 ### 🔥 First official English release of Community Remaster - 1.14.1! New ComMod 2.1! [2024.04.03]
