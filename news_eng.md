@@ -9,6 +9,19 @@ Community patch and remaster project for Hard Truck Apocalypse.
 Mods from news posts can be downloaded at [DEM Discord server](https://discord.gg/deus-ex-machina-522817939616038912) in topic **#витрина-модов** (mods gallery)
 
 ---
+### 🛳️ Armada mod is now out - "HTA mod with ships" [2024.04.04]
+<img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/armada.png" alt="Logo" width="800">
+HTA mod released today is probably "the coolest of the weird ones" and "the weirdest of the cool ones" - ARMADA.
+Or as its author modestly but accurately describes it sometimes: "mod with ships".
+Above I remind you how the trailer of this, in fact, the first mod that can be called a total-conversion based on HTA engine looked like. I don't know what else there is to say. You just have to play it, especially since it supports English on release!
+
+Take note: **this mod requires the latest ComMod 2.1 and ComRem 1.14.1**, links are avaiable in the news below!
+
+<img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/armada_screen.webp" alt="Screen" width="800">
+
+:cruise_ship: **You can download Armada** [on Github](https://github.com/lyokhatankist/ExM-Armada/releases) and [on ModDB](https://www.moddb.com/mods/hta-armada/downloads/armada).
+
+---
 ### 🔥 First official English release of Community Remaster - 1.14.1! New ComMod 2.1! [2024.04.03]
 
 New version of Community Remaster has been released, this is the first official release of ComRem and ComPatch with English support!
