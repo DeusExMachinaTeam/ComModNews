@@ -15,7 +15,7 @@ HTA mod released today is probably "the coolest of the weird ones" and "the weir
 Or as its author modestly but accurately describes it sometimes: "mod with ships".
 Above I remind you how the trailer of this, in fact, the first mod that can be called a total-conversion based on HTA engine looked like. I don't know what else there is to say. You just have to play it, especially since it supports English on release!
 
-Take note: **this mod requires the latest ComMod 2.1 and ComRem 1.14.1**, links are avaiable in the news below!
+Take note: **this mod requires the latest ComMod 2.1 and ComRem 1.14.1**, links are available in the news below!
 
 <img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/armada_screen.webp" alt="Screen" width="800">
 
