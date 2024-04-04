@@ -13,7 +13,7 @@ Mods from news posts can be downloaded at [DEM Discord server](https://discord.g
 <img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/armada.png" alt="Logo" width="800">
 HTA mod released today is probably "the coolest of the weird ones" and "the weirdest of the cool ones" - ARMADA.
 Or as its author modestly but accurately describes it sometimes: "mod with ships".
-Below a reminder with the trailer for this, in fact, the first mod that can be called a total-conversion based on HTA engine looked like. I don't know what else there is to say. You just have to play it, especially since it supports English on release!
+Below a reminder with the trailer for this, in fact, the first mod that can be called a total-conversion based on HTA engine. I don't know what else there is to say. You just have to play it, especially since it supports English on release!
 
 Take note: **this mod requires the latest ComMod 2.1 and ComRem 1.14.1**, links are available in the news below!
 
