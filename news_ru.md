@@ -21,8 +21,9 @@
 
 <img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/armada_screen.webp" alt="Screen" width="800">
 
-:cruise_ship: **Скачать Армаду** можно [на Github](https://github.com/lyokhatankist/ExM-Armada/releases) и [на ModDB](https://www.moddb.com/mods/hta-armada/downloads/armada).
+🛳️ **Скачать Армаду** можно [на Github](https://github.com/lyokhatankist/ExM-Armada/releases) и [на ModDB](https://www.moddb.com/mods/hta-armada/downloads/armada).
 
+Авторы: **DOLBOYASCHERS TEAM**
 
 ---
 ### 🔥 Вышло обновление Комрема - 1.14.1, вышел новый ComMod 2.1! [2024.04.03]
