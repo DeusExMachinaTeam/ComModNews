@@ -22,6 +22,7 @@
 <img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/armada_screen.webp" alt="Screen" width="800">
 
 🛳️ **Скачать Армаду** можно [на Github](https://github.com/lyokhatankist/ExM-Armada/releases) и [на ModDB](https://www.moddb.com/mods/hta-armada/downloads/armada).
+🔴 [Смотреть трейлер Armada на YouTube](https://www.youtube.com/watch?v=CaSsOAplJw8) 
 
 Авторы: **DOLBOYASCHERS TEAM**
 
