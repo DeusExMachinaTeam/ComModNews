@@ -1,6 +1,6 @@
 <!-- Header -->
 
-<img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/news_eng.png" alt="Logo" width="400">
+<img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/news_eng.png" alt="DEM logo" width="800">
 
 Community patch and remaster project for Hard Truck Apocalypse.
 
