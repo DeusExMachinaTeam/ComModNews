@@ -16,16 +16,16 @@ Mods from news posts can be downloaded on [DEM Discord server](https://discord.g
 Ho-ho-ho, welcome to the first English entry of our semi-regular newspaper-like section previously only available in Russian, ComMod's mod digest! All mods in this list are available in English, so don't be scared if you first encounter description in Russian when trying to download the mod, just use built-in translator in your browser - the final mod is indeed translated. Let's start!
 
 New releases of the last few months:
-* **[OverPhys](https://forum.deuswiki.com/t/overphys/2931/1)** - changes physics and handling of trucks and other vehicles, via comprehensive changes in suspension and ground surface physics setup. Has other tricks in it's sleave, available for optional installation
-* **[Haadotorakku no Mokushiroku](https://forum.deuswiki.com/t/haadotorakku-no-mokushiroku/2954/1)** - meme release, machine translation of the game to Japanese, using AI-voices and much attention to detail. Choice of every weeaboo and trash-steamer of the community 🤡
+* **[OverPhys](https://forum.deuswiki.com/t/overphys/2931/1)** - improves physics and handling of trucks and other vehicles, with a comprehensive set of changes for suspension and ground surface physics setup. Has other tricks in it's sleave, available for optional installation
+* **[Haadotorakku no Mokushiroku](https://forum.deuswiki.com/t/haadotorakku-no-mokushiroku/2954/1)** - meme release, machine-translation of the game to Japanese, using AI-voices and much attention to detail. Choice of every weeaboo and trash-steamer of the community 🤡
 * **Rusty Interface** - new mini-mod curtesy of MrKarfen with a new take on ComRem's UI, with more grunge and heavy-duty traces of use
 
 Updates for existing mods:
-* **[Absque nota](https://forum.deuswiki.com/t/absque-nota/2967/1)** got regular updates and reached version Beta 0.8.2 More cool trucks and other neat changes!
+* **[Absque nota](https://forum.deuswiki.com/t/absque-nota/2967/1)** was getting regular updates and now reached version Beta 0.8.2 - even more cool trucks and other neat changes!
 * **[Improved Storyline](https://forum.deuswiki.com/t/improved-storyline/2948/4)** in 1.2.1 version got big fat pack of fixes and small gameplay improvements
 * **[Different Things](https://forum.deuswiki.com/t/different-things/2938/1)** 1.3.3 is now compatible with [Doomer Wave](https://forum.deuswiki.com/t/doomer-wave/2945) and also got a round of polish
 
-🟠 **You can get up-to-date ComMod 2.2.1** [on our Github](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/releases), and compatible mods can always be found in out [Discord server](https://discord.gg/deus-ex-machina-522817939616038912) or **[our new forum](https://forum.deuswiki.com/mods)**.
+🟠 **You can get up-to-date ComMod 2.2.1** [on our Github](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/releases), and compatible mods can always be found on our [Discord server](https://discord.gg/deus-ex-machina-522817939616038912) or **[our new forum](https://forum.deuswiki.com/mods)**.
 
 
 
