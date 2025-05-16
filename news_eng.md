@@ -1,17 +1,40 @@
-<!-- Header -->
-
 <img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/news_eng.png" alt="DEM logo" width="800">
 
-Community patch and remaster project for Hard Truck Apocalypse.
+* Mods from news posts can be downloaded on ![Discord logo](https://user-images.githubusercontent.com/79088546/174305727-755adfa0-57c2-41b0-9717-8476fcbc4567.png) [DEM Discord server](https://discord.gg/deus-ex-machina-522817939616038912) in topic **#витрина-модов** (mods gallery)
+* Or ![DEM logo](https://user-images.githubusercontent.com/79088546/174311991-c20e04bb-1cad-44e2-a0e9-5984de6d8d55.png) [on our forum](https://forum.deuswiki.com/c/mods/9) (available in Russian, please use translator in your browser)
 
-![Discord logo](https://user-images.githubusercontent.com/79088546/174305727-755adfa0-57c2-41b0-9717-8476fcbc4567.png) [**Follow the development on Discord »**](https://discord.gg/deus-ex-machina-522817939616038912)
 
-Mods from news posts can be downloaded on [DEM Discord server](https://discord.gg/deus-ex-machina-522817939616038912) in topic **#витрина-модов** (mods gallery) or [on our forum](https://forum.deuswiki.com/c/mods/9) (available in Russian, please use translator)
+---
+### 🌱 Mod-digest - Spring 2025 [2025.05.16]
+
+![Banner for apaTche and The Chronicle of Hamza](https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/apatche_hamza.png)
+
+Hi HardTruckers! This spring is so abundant with releases that the banner has to be shared by two mods at once, each worthy of it on its own. Moreover, the only thing that saved us from getting a third mod in there is its “beta” status. It's great to have such problems facing the upcoming 20th anniversary of the series, don't ya think?
+
+New releases:
+* **[apaTche](https://forum.deuswiki.com/t/apatche/3044/1)** - first ever major mod for Ex Machina: Arcade, that aims to fix lots of gameplay and visual issues to make it a much more fun and consistent experience, also bringing full English support complete with voiceover to the game
+* **[The Chronicle of Hamza](https://forum.deuswiki.com/t/the-chronicle-of-hamza/3038/1)** - new story mod, unfolding in the desert region, the main character Hamza along with his friend Mansur and the original game's protagonist, must uncover the causes of the 2011 catastrophe [RU-only, ENG in development]
+
+New beta release:
+* **[Escape from Apocalypse](https://forum.deuswiki.com/t/escape-from-apocalypse/3028/1)** - author will modestly tell you that this is “a mod that aims to port all possible mechanics and game experience from Escape from Tarkov”. In fairness, it is a unique and technically impressive extraction-survival, unlike any other mod for the game [RU only]
+
+[![Screens of all three mods](https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/triple_trouble_screens.webp)](https://forum.deuswiki.com/c/mods/9)
+
+
+With such a lineup of releases, one can guess one more new feature.... ComMod, starting with version 3.0, supports Arcade and Meridian 113! There are no compatible releases for M113 yet, but when installing apaTche ComMod will take care to apply small memory allocation edits to the engine, ported from ComPatch, significantly reducing the chances of crashes and allowing those who had previously had problems running the game to launch it.
+
+For modders, 3.0+ adds features that will allow mods to become much more compatible with each other. This will require updating existing mods, so hopefully modders will be interested in this feature.
+
+🟠 **You can get up-to-date ComMod 3.0.1** [on our Github](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/releases), and compatible mods on our [Discord server](https://discord.gg/deus-ex-machina-522817939616038912) or [our new forum](https://forum.deuswiki.com/mods).
+* 🔴 Watch on YouTube: [apaTche trailer #1](https://www.youtube.com/watch?v=RHUwQtBa06o) and [trailer #2](https://www.youtube.com/watch?v=mg4kwJbi0m4)
+* 🔴 Watch on YouTube: [The Chronicle of Hamza trailer](https://www.youtube.com/watch?v=4J572zPNDqs) 
+* 🔴 Watch on YouTube: [Escape from Apocalypse trailer](https://www.youtube.com/watch?v=CpmWvSffXt8) and its [gameplay trailer](https://www.youtube.com/watch?v=peD_LgR01Oc) 
 
 
 ---
 ### ❄️ Mod-digest - Early 2025 [2025.01.11]
-<img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/over_phys.png" alt="Logo" width="800">
+
+![Banner for OverPhys](https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/over_phys.png)
 
 Ho-ho-ho, welcome to the first English entry of our semi-regular newspaper-like section previously only available in Russian, ComMod's mod digest! All mods in this list are available in English, so don't be scared if you first encounter description in Russian when trying to download the mod, just use built-in translator in your browser - the final mod is indeed translated. Let's start!
 
@@ -28,10 +51,9 @@ Updates for existing mods:
 🟠 **You can get up-to-date ComMod 2.2.1** [on our Github](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/releases), and compatible mods can always be found on our [Discord server](https://discord.gg/deus-ex-machina-522817939616038912) or **[our new forum](https://forum.deuswiki.com/mods)**.
 
 
-
-
 ---
 ### 🛳️ Armada mod is now out - "HTA mod with ships" [2024.04.04]
+
 <img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/armada.png" alt="Logo" width="800">
 HTA mod released today is probably "the coolest of the weird ones" and "the weirdest of the cool ones" - ARMADA.
 Or as its author modestly but accurately describes it sometimes: "mod with ships".
