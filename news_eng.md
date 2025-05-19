@@ -25,7 +25,7 @@ With such a lineup of releases, one can guess one more new feature.... ComMod, s
 
 For modders, 3.0+ adds features that will allow mods to become much more compatible with each other. This will require updating existing mods, so hopefully modders will be interested in this feature.
 
-🟠 **You can get up-to-date ComMod 3.0.1** [on our Github](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/releases), and compatible mods on our [Discord server](https://discord.gg/deus-ex-machina-522817939616038912) or [our new forum](https://forum.deuswiki.com/mods).
+🟠 **You can get up-to-date ComMod 3.0.2** [on our Github](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/releases), and compatible mods on our [Discord server](https://discord.gg/deus-ex-machina-522817939616038912) or [our new forum](https://forum.deuswiki.com/mods).
 * 🔴 Watch on YouTube: [apaTche trailer #1](https://www.youtube.com/watch?v=RHUwQtBa06o) and [trailer #2](https://www.youtube.com/watch?v=mg4kwJbi0m4)
 * 🔴 Watch on YouTube: [The Chronicle of Hamza trailer](https://www.youtube.com/watch?v=4J572zPNDqs) 
 * 🔴 Watch on YouTube: [Escape from Apocalypse trailer](https://www.youtube.com/watch?v=CpmWvSffXt8) and its [gameplay trailer](https://www.youtube.com/watch?v=peD_LgR01Oc) 

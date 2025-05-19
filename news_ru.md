@@ -25,7 +25,7 @@
 
 Для моддеров, 3.0+ добавляет фичи которые позволят модам стать гораздо более совместимыми между собой. Это потребует обновления существующих модов, так что будем надеяться что моддеры заинтересуются этой возможностью. 
 
-* 🟠 **Скачать свежий ComMod 3.0.1** можно [на нашем Github](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/releases), а моды как всегда [на нашем форуме](https://forum.deuswiki.com/mods) или [в Discord DEM](https://discord.gg/deus-ex-machina-522817939616038912)
+* 🟠 **Скачать свежий ComMod 3.0.2** можно [на нашем Github](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/releases), а моды как всегда [на нашем форуме](https://forum.deuswiki.com/mods) или [в Discord DEM](https://discord.gg/deus-ex-machina-522817939616038912)
 * 🔴 Смотреть на YouTube [трейлер apaTche #1](https://www.youtube.com/watch?v=RHUwQtBa06o) и [трейлер #2](https://www.youtube.com/watch?v=mg4kwJbi0m4)
 * 🔴 Смотреть на YouTube [трейлер The Chronicle of Hamza](https://www.youtube.com/watch?v=4J572zPNDqs) 
 * 🔴 Смотреть на YouTube [трейлер Escape from Apocalypse](https://www.youtube.com/watch?v=CpmWvSffXt8) и его [геймплейный трейлер](https://www.youtube.com/watch?v=peD_LgR01Oc) 
@@ -213,7 +213,7 @@ Different Things - небольшой мод, добавляющий в игру
 
 Автор: **MrKarfen**
 
-Использован контент от авторов: **Seel, AndrewN**
+Использован контент от авторов: **Seel, bat13, AndrewN**
 
 (Доступны версии для ComRem, ISL, DoomerWave, ExtraMachines)
 
