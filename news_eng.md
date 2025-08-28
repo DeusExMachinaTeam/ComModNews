@@ -19,7 +19,7 @@ Once again, we welcome you to learn about the latest and greatest in Ex Machina 
 You've probably noticed the 〽️ icon next to the names of the two mini-mods. This means that they are packaged as "merge-mods", i.e., using a system that allows mod resources to be merged with game files. Such mods are much more likely to be compatible with other mods and can be installed on top of different mod configurations. This system still currently has some limitations, so pay attention to the authors' notes about which mods their merge mods are compatible with.
 
 In addition to new releases, several updates have also been released, some of which are quite significant:
-* **[Escape from Apocalypse (Update 0.95) [RU only]](https://forum.deuswiki.com/t/escape-from-apocalypse/3028/15)** - new mechanics, items, quests, and many other changes, as well as a new, as always, awesome stylish video explaining the mod's mechanics (link below)
+* **[Escape from Apocalypse (Update 0.96) [now in English!]](https://github.com/KiraDesuReal/Escape-from-Apocalypse/blob/main/README_EN.md)** - new mechanics, items, quests, and many other changes, as well as a new, as always, awesome stylish video explaining the mod's mechanics (link below)
 * **[The Chronicle of Hamza 1.1.2](https://forum.deuswiki.com/t/the-chronicle-of-hamza/3038/7)** - now with many bug fixes and improvements, this story mod is still worthy of your full attention. Mod is also now available in full English translation!
 * **〽️** **[ExtraMachines 2.0](https://forum.deuswiki.com/t/extramachines/2949/5)** has moved to a merge-mod system and is now compatible with a large number of other mods, with various bug fixes as a bonus
 * **〽️** **[OverPhys 2.0](https://forum.deuswiki.com/t/overphys/2931/7)** is now compatible with a bunch of stuff, including Improved Storyline! An awesome way to get new experience from the game with the help of a new vehicle physics and more
@@ -117,3 +117,4 @@ New version of Community Remaster just came out!
 * and many other fixes and improvements for the game!
 
 Download at our Github: [EM-CommunityPatch](https://github.com/DeusExMachinaTeam/EM-CommunityPatch)
+
