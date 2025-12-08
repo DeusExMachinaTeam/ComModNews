@@ -3,6 +3,39 @@
 * Mods from news posts can be downloaded on ![Discord logo](https://user-images.githubusercontent.com/79088546/174305727-755adfa0-57c2-41b0-9717-8476fcbc4567.png) [DEM Discord server](https://discord.gg/deus-ex-machina-522817939616038912) in topic **#витрина-модов** (mods gallery)
 * Or ![DEM logo](https://user-images.githubusercontent.com/79088546/174311991-c20e04bb-1cad-44e2-a0e9-5984de6d8d55.png) [on our forum](https://forum.deuswiki.com/c/mods/9) (available in Russian, please use translator in your browser)
 
+
+---
+### 🎂 20 years aniversary of Ex Machina's original release! [2025.12.08]
+**On December 8th 2005** started the history that lead to you reading this text right now.
+
+Of course, round date is just that, a number, and every game will be 20 years old some day.
+What is special, though, is that people still care, without any monetary incentive. Not because "nostalgia for sale" is the central business model of modern game industry.
+No, it's just because 20 years back a group of young men and women released a game, a fruit of their labor and a piece of interactive art, that, in some way as a happy accident, resonated in the hearts of many people. And whatever you think about the Targem of today, we can't not to say thanks to the studio that existed 20 years ago.
+
+![Targem Games in 2006](https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/targem_games_2006.webp)
+`> Targem Games in 2006`
+
+Today, we celebrate this excuse, this work, and this accident that pushed us to get creative, find new pals and friends, learn a bunch of useful skills, and for some, even find a profession that they might never have considered if it weren't for this game, this hobby, and this community.
+
+Ten years ago, when it seemed that the community was losing its spark, some thought that the problem lay in a lack of support from developers - game update to improve its stability, new mod-making tools, and some even dared to mention access to the game's source code.
+
+Today, we can say that the community has completely taken control of its own destiny, because this year:
+* the most complex mods in the history of the community were released
+* we saw the first in-game footage of the fully recompiled game
+* a completely rebuilt render for the game rendered a frame for the first time
+* improvements to the engine appeared that not only fixed existing bugs, but also expanded the engine's functionality.
+
+I think there is practically no chance, that next year the game will not be wide open for changes and rewrites of any complexity and ambitiousness.
+
+None of this would be possible, and none of this would make sense going forward, without your attention, your downloads, reviews, reactions, and views.
+Don't forget to support modders and other creators in the community; they need you as much as you need them.
+
+Of course, we always want to get a big and beatiful release in time for a beatiful round date. As is often the case, it becomes impossible to do so on time and at a level of quality we feel we can be proud of. Today, we are not ready to bring you a new release of Community Remaster. But we are working diligently on it, and I can say with confidence that more work has been done in the last few months than in the previous year and a half.
+I hope that by the end of December, we will have a great New Year's gift for you. 
+
+But for now, thank you, Ex Machina / Hard Truck Apocalypse. And thank you, Targem Games! Happy Birthday!
+
+
 ---
 ### 🌊 Mod Digest - First Half of Summer 2025 [2025.07.21]
 
