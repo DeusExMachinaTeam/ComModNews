@@ -3,6 +3,43 @@
 * Скачать моды можно на ![DEM logo](https://user-images.githubusercontent.com/79088546/174311991-c20e04bb-1cad-44e2-a0e9-5984de6d8d55.png) **[нашем форуме в разделе "Моды для Ex Machina"](https://forum.deuswiki.com/mods)**
 * А так же на ![Discord logo](https://user-images.githubusercontent.com/79088546/174305727-755adfa0-57c2-41b0-9717-8476fcbc4567.png) [Discord сервере DEM](https://discord.gg/deus-ex-machina-522817939616038912) в разделе #витрина-модов
 
+
+---
+### 🎂 Мод-дайджест - Весна 2026 [2026.04.16]
+
+![Banner for Red Mist and Improved Voicelines](https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/redmist_ivl.png)
+
+Время бежит невероятно быстро и совершенно не чувствуется, что новость про выход первого **настоящего** мода на Arcade мы публиковали уже почти год назад.
+Однако, так и есть. 
+
+Я удивлён не меньше вас, но сегодня центральным пунктом программы становится... ещё один мод на Аркаду! Ну, допустим пока только демо мода, но сам проект настолько необычный, что о нём стоит рассказать.
+
+*О боги, это ведь значит что теперь к "Ex Machina чистая копия" и "М113 Very Clean", на наших ПК имеет шансы завестись "чистая копия" Arcade!* Чтож, так тому и быть, перейдём к самому анонсу:
+
+* **Red Mist** - модификация, смыслом которой является попытка переноса на движок Ex Machina Arcade 6-ой игры из серии Touhou Project - The Embodiment of Scarlet Devil. 
+Демо-версия включает в себя 1-ый игровой уровень на Лёгком режиме сложности и приурочена к 10-летнему юбилею Отдела «М» (ищите на нашем [Discord сервере](https://discord.gg/deus-ex-machina-522817939616038912) или [в ВК](https://vk.com/wall-79184407_935))
+
+Вы либо понятия не имеете что такое Тохо, и тогда вас ожидает большой сюрприз[,](https://www.youtube.com/watch?v=2kl9RpCpIpA) либо вы отлично знаете что это такое, и тогда возможно вы уже удивились[,](https://www.youtube.com/watch?v=TUQCP9hgNMA) ещё сильнее. Ничего так не демонстрирует полноту и мощь нашего сообщества, как то что тотал-конверсии перестали быть чудом "раз в 10 лет", ведь Red Mist присоединяется в категории проектов, полностью переворачивающих Ex Machina с ног на голову, к таким обалденным недавним модам как [ExRoulette](https://forum.deuswiki.com/t/exroulette/3060/1) и [Armada](https://github.com/lyokhatankist/ExM-Armada/releases).
+
+<img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/redmist_screen.webp" alt="Red Mist screen" width="800">
+
+Кстати, про "раз в 10 лет" - отправляем свои огромные поздравления с юбилеем дорогому товарищу ICAS-14 и Отделу «М»! Есть люди, которые являются столпами нашего небольшого общего хобби, и даже при [мягкой самоиронии ICAS'а](https://vk.com/wall-79184407_932) про не так часто выходящие моды, он - один из таких столпов[.](https://www.youtube.com/watch?v=OYjYU4Li-Pk)
+
+
+В других новостях:
+* в начале месяца вышел приуроченный ко Дню Махиниста 🤡 [**Improved Voicelines**](https://github.com/lyokhatankist/ImprovedVoicelines) для... Меридиан 113? Воистину, моддеры это творцы, и не нам влиять на объект их моддинга. Ну или вроде того. Это юмористический (для кого-то) проект полной переозвучки игры непрофессиональными актёрами сообщества. Получилось специфично, если вы понимаете о чём я. Впрочем, хуже ваш экспириенс с Меридианом это врядли сделает, так что дерзайте!
+* ещё в конце 2025 вышел **〽️** [**RandomStuff**](https://forum.deuswiki.com/t/razlichnye-mini-mody-za-avtorstvom-flyapple/3068/2), не единый мод, а крутая солянка небольших балансных и геймплейных изменений, которые можно ставить по отдельности
+* **[Escape from Apocalypse (Обновление 0.98)](https://forum.deuswiki.com/t/escape-from-apocalypse/3028/31)** - "обновление направлено на разнообразие игрового процесса, улучшения и исправления ошибок". Что вы там говорите, мультиплеер? Нет, [не слышали](https://www.youtube.com/watch?v=4s9XDPGhiNY).
+* **[Absque nota 0.8.5](https://forum.deuswiki.com/t/absque-nota/2967/1)** привносит новые модели для Бульдозера, разные улучшения моделей колёс и не только
+* **[The Chronicle of Hamza](https://forum.deuswiki.com/t/the-chronicle-of-hamza/3038/7)** - добежала до релиза 1.3.1, конечно же с нужными улучшениями и багфиксами
+* ... а так же, автор Хамзы **стакан** выпустил раннюю версию своей [визуальной новеллы воплощающей сюжет Махины](https://github.com/stakanyash/hta_renpy). 🗿 Этот дайджест наверное самый артхаусный за историю рубрики.
+* другой d'auteur комьюнити, Carsen готовит пачку релизов которую мы, вероятно, увидим уже скоро
+* не забудем и про **〽️** **[ExtraMachines 2.0.1](https://forum.deuswiki.com/t/extramachines/2949/6)** получивший небольшие багфиксы
+
+На этом мы заканчиваем сегодняшний дайджест. С прошедшим днём махиниста, спасибо что играете, и до скорых встреч!
+
+* 🟠 **Скачать актуальный ComMod 3.0.6** можно [на нашем Github](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/releases), а моды как всегда [на нашем форуме](https://forum.deuswiki.com/mods) или [в Discord DEM](https://discord.gg/deus-ex-machina-522817939616038912)
+
 ---
 ### 🎂 20 лет Ex Machina! [2025.12.08]
 **8 декабря 2005го года** началась история, которая привела к тому, что вы сейчас читаете этот текст.
@@ -152,7 +189,7 @@
 
 Внимание: **этому моду потребуются для установки новейшие ComMod 2.1 и ComRem 1.14.1**, ссылки можно найти в новости ниже!
 
-<img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/armada_screen.webp" alt="Screen" width="800">
+<img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/armada_screen.webp" alt="Armada screen" width="800">
 
 🛳️ **Скачать Армаду** можно [на Github](https://github.com/lyokhatankist/ExM-Armada/releases) и [на ModDB](https://www.moddb.com/mods/hta-armada/downloads/armada).
 🔴 [Смотреть трейлер Armada на YouTube](https://www.youtube.com/watch?v=CaSsOAplJw8) 
@@ -179,7 +216,7 @@
 
 🔸**stranded** - концептуальная модификация для Ex Machina Community Remaster, которая расположилась на стыке жанров. В stranded присутствуют элементы выживания, головоломки и визуальной новеллы без... новеллы? Герою модификации предстоит решить загадки острова Сакадин, чтобы вернуть себе память и найти выход. 
 
-<img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/stranded_screen.webp" alt="Screen" width="800">
+<img src="https://raw.githubusercontent.com/DeusExMachinaTeam/ComModNews/main/assets/stranded_screen.webp" alt="Stranded screen" width="800">
 
 Мод можно найти [в нашем Discord](https://discord.gg/deus-ex-machina-522817939616038912) или [GitHub мода](https://github.com/Gnome627/stranded).
 
